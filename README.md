@@ -1,14 +1,13 @@
-# Machine Learning Basics 
+# Machine Learning Basics 🤖
+A collection of hands-on Jupyter Notebooks covering core ML preprocessing,
+feature engineering, and dimensionality reduction concepts.
 
-A collection of hands-on Jupyter Notebooks covering core ML preprocessing 
-and feature engineering concepts.
-
-##  Notebooks
-
+## 📂 Notebooks
 | # | Topic | Dataset | Key Concepts |
 |---|-------|---------|--------------|
 | 01 | Feature Scaling | Social Network Ads | Standardization, Normalization |
 | 02 | Handling Missing Data | Titanic | Mean/Median/Mode Imputation, ColumnTransformer |
+| 03 | Dimensionality Reduction (PCA) | MNIST Digit Recognizer | PCA, Curse of Dimensionality, KNN, Explained Variance |
 
-##  Setup
-pip install pandas numpy matplotlib seaborn scikit-learn
+## 🛠️ Setup
+pip install pandas numpy matplotlib seaborn scikit-learn plotly
