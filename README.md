@@ -1,7 +1,7 @@
 # Machine Learning Basics 
 A collection of hands-on Jupyter Notebooks covering core ML preprocessing,
-feature engineering, and dimensionality reduction concepts, built while learning
-from the CampusX ML playlist.
+feature engineering, and dimensionality reduction concepts.
+
 ## Notebooks
 | # | Topic | Dataset | Key Concepts |
 |---|-------|---------|--------------|
